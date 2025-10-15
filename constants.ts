@@ -11,7 +11,7 @@ export const ADMIN_DISCORD_URLS = [
 
 export const NAV_LINKS = [
   { name: "Home", path: "/" },
-  { name: "Events", path: "/events" },
+  // { name: "Events", path: "/events" },
   { name: "Collab", path: "/collab" },
 ];
 
