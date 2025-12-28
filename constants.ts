@@ -1,12 +1,11 @@
 import type { EventType, TeamMemberType } from "./types";
 
 export const LOGO_URL =
-  "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/E6316896-2111-483D-A647-FF47B35566CA.jpg";
+  "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Logo/refs/heads/main/E6316896-2111-483D-A647-FF47B35566CA.jpg";
 export const TIKTOK_URL = "https://www.tiktok.com/@bold.community";
 
 export const ADMIN_DISCORD_URLS = [
   { name: "Admin Cici", url: "https://discord.com/users/1392968352137347234" },
-  { name: "Admin Edho", url: "https://discord.com/users/1237064388641427596" },
 ];
 
 export const NAV_LINKS = [
@@ -66,11 +65,5 @@ export const TEAM_DATA: TeamMemberType[] = [
     name: "_chiichii1",
     discordId: "_chiichii1",
     discordUrl: "https://discord.com/users/_chiichii1",
-  },
-  {
-    position: "Admin Event",
-    name: "kwoon11",
-    discordId: "kwoon11",
-    discordUrl: "https://discord.com/users/kwoon11",
   },
 ];
